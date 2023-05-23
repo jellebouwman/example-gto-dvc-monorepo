@@ -21,3 +21,6 @@ artifacts:
     type: model
     path: adsadas
 
+  asdf1:
+    path: as
+    type: model
