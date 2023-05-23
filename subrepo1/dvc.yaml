@@ -24,3 +24,6 @@ artifacts:
   looking-for-a-bug:
     path: some-path
     type: model
+  looking-for-abug-2:
+    path: somepath
+    type: model
