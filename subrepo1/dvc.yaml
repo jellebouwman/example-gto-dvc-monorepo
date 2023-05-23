@@ -21,3 +21,6 @@ artifacts:
     type: model
     path: adsadas
 
+  looking-for-a-bug:
+    path: some-path
+    type: model
